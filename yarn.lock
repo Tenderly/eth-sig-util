@@ -23,10 +23,10 @@
   resolved "https://registry.yarnpkg.com/@metamask/eslint-config/-/eslint-config-2.1.0.tgz#36b5592ed5e322750b790959517fcb4aaaff9896"
   integrity sha512-MjpcXCeMu8hULHxqgrgtvYYsZQHpsOWM4VF4DzKMquXAfaaNgiAvcAT1lKeqYD+RobBf/kqChCu5ASysnmTC1Q==
 
-"@neburo/ethereumjs-util@^5.2.0":
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/@neburo/ethereumjs-util/-/ethereumjs-util-5.2.0.tgz#b8f899f6e4a33ab012e8b2c12267828b857b0232"
-  integrity sha512-9idnaTYTsG9EE2UT7DB20X2xCcTQ2G4QmVAduhZzMtexCh5063btGMRe5D6yiclmTGHW+/OuIl4oC+Sv5+qQXg==
+"@neburo/ethereumjs-util@^5.2.1":
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/@neburo/ethereumjs-util/-/ethereumjs-util-5.2.1.tgz#e98674906aa102cc9fac8501751a794f62216496"
+  integrity sha512-iGWKl1j6ZFuhiQtjszt2nf4QhhOYKvVByKiyDjfdVJ41yCSyKvIlX2TMwTgObolbQ+QCJxZhE/7uzeqUtSUS2A==
   dependencies:
     bn.js "^4.11.0"
     create-hash "^1.1.2"

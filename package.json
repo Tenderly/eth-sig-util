@@ -37,7 +37,7 @@
     "buffer": "^5.2.1",
     "elliptic": "^6.4.0",
     "ethereumjs-abi": "^0.6.5",
-    "@neburo/ethereumjs-util": "^5.2.0",
+    "@neburo/ethereumjs-util": "^5.2.1",
     "tweetnacl": "^1.0.0",
     "tweetnacl-util": "^0.15.0"
   },
